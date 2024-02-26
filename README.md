@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arshina
-- 👀 I’m interested in 
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning data science from guvi
 - 📫 How to reach me arshizig7@gmail.com
   
